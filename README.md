@@ -1,6 +1,6 @@
 # SY-701-Projects
 Aggregated SEC projects for Skill Showcase
-<img width="1408" height="736" alt="Gemini_Generated_Image_4dogau4dogau4dog" src="https://github.com/user-attachments/assets/7b6e9ef0-0687-414f-81bb-782fbbcbe0e2" />
+
 
 ███▄    █  ██▓ ▄████▄   ▄████▄   ▒█████   ██▓     ▒█████  
  ██ ▀█   █ ▓██▒▒██▀ ▀█  ▒██▀ ▀█  ▒██▒  ██▒▓██▒    ▒██▒  ██▒
@@ -62,3 +62,4 @@ LinkedIn:(https://www.linkedin.com/in/nicholas-bohanan-21345519b/)
 Design Touch: Since you use Figma, you can export a custom header image (1280x640) with a cool security-themed background and your logo to put at the very top of the page.
 
 Would you like me to help you write the "Impact Statement" for your first featured project (like the Active Directory/FSx lab) to include in this bio?
+<img width="1792" height="576" alt="Gemini_Generated_Image_q4y3dfq4y3dfq4y3" src="https://github.com/user-attachments/assets/e3588c41-54bb-4a9c-9b4c-61700ee0a1ea" />
