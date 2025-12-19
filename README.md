@@ -30,12 +30,15 @@ Network Defense: Hardening protocols (SSH, TLS) and securing email gateways (SPF
 ---- **Technical Stack** ----
 
 Tools:      Nmap, Wireshark, Nessus, Metasploit, Splunk, Kali Linux
+
 Platforms:  AWS (FSx, EC2), Windows Server, Active Directory, Figma
+
 Languages:  Markdown, PowerShell (Basics), CSS/HTML
 
   ---- **Current Goals/Achieved goals** ----
   
 Pending Certification: Currently prepping for the CompTIA Security+ SY0-701.
+
 Achieved: 2-yr degree in Information Technology, Comptia A+, Google Cybersecurity Certificate.
 
 Projects: Building an automated home lab to simulate and remediate common attack vectors. Documenting solutions and hardening. Deploying pre-configured VM states.
