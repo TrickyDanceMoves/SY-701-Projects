@@ -1,0 +1,12 @@
+1st commit is to log the intent.
+
+This will be code oriented, done with through PowerShell in a test environment.
+
+Scope: Is to establish automation and speed up provisioning speed of active directory identity creation.
+
+
+Details of IAM tasks
+Company: Seattle Seahawks
+Org size: 30 Users (example)
+OU's: Seahawks, Owners, Players, Coaches, HR/Other
+Users will have RBAC (Role Based Access Control) enacted on the AD/DB's.
